@@ -47,6 +47,7 @@ I "luckily" secured an offer right before I graduated from Flatiron School in 20
 - [Codecademy](https://www.codecademy.com)
 - [MDN Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
 - [Women Who Code](https://members.womenwhocode.com/resources/)
+- [Khan Academy's computing courses](https://www.khanacademy.org/computing)
   
 ### Skills / Tools
 - [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US)
