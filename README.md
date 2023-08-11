@@ -20,6 +20,7 @@ I "luckily" secured an offer right before I graduated from Flatiron School in 20
 
 ### Technical
 - [Personal Study Guide](https://github.com/yizheng1709/InterviewPrep)
+- [Tech Interview Handbook](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)
 - [Refer Me's Interview Guide](https://resources.refer.me/)
 - [Big O Cheat Sheet](https://www.bigocheatsheet.com/)
 - [Hack Reactor's Tech Interview Cheat Sheet](https://github.com/hackreactor/Tech-Interview-Cheat-Sheet)
