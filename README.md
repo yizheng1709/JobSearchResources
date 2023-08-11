@@ -13,7 +13,7 @@
 - [LinkedIn Interview Prep](https://www.linkedin.com/interview-prep/assessments/urn:li:fsd_assessment:(1,a)/question/urn:li:fsd_assessmentQuestion:(10011,aq11)/)
 
 ### Technical
-- [ByteByteGo](https://bytebytego.com/)
+- [Personal Study Guide](https://github.com/yizheng1709/InterviewPrep)
 
 ## Company Research
 - [BuiltIn Companies](https://builtin.com/companies)
