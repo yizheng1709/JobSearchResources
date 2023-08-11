@@ -10,6 +10,9 @@ I "luckily" secured an offer right before I graduated from Flatiron School in 20
 - [LinkedIn Jobs](https://www.linkedin.com/jobs/)
 - [Levels.fyi's Job Board](https://www.levels.fyi/jobs)
 
+### Job Tracking
+- [Google Sheet Job Tracker - credit goes to original creator](https://docs.google.com/spreadsheets/d/1hDxRLV9XT7quVhelbhqMvn8PcaQDF2fJzfljHEvqBQ4/edit?usp=sharing)
+
 ## Interviewing
 
 ### Behavioral
