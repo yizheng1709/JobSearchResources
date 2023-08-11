@@ -1,10 +1,11 @@
 # Job Search Resources
 
 ## Resume
-
+- [Rezi - Build Your Resume with AI](https://www.rezi.ai/)
+  
 ## Job Boards
 - [Wellfound, formerly AngelList Talent](https://wellfound.com/)
-- [Tech Ladies](https://www.hiretechladies.com/join)
+- [Tech Ladies - Join the largest community of women in tech](https://www.hiretechladies.com/join)
 - [LinkedIn Jobs](https://www.linkedin.com/jobs/)
 
 ## Interviewing
