@@ -47,3 +47,4 @@ I "luckily" secured an offer right before I graduated from Flatiron School in 20
   
 ### Skills / Tools
 - [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US)
+- [New York State Department of Labor partnered with Coursera to provide free training](https://dol.ny.gov/online-learning-coursera)
