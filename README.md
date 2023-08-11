@@ -21,7 +21,7 @@ I "luckily" secured an offer right before I graduated from Flatiron School in 20
 ### Technical
 - [Personal Study Guide](https://github.com/yizheng1709/InterviewPrep)
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)
- - [Grind 75](https://www.techinterviewhandbook.org/grind75)
+  - [Grind 75](https://www.techinterviewhandbook.org/grind75)
 - [Frontend Interview Handbook](https://www.frontendinterviewhandbook.com/)
 - [Refer Me's Interview Guide](https://resources.refer.me/)
 - [Big O Cheat Sheet](https://www.bigocheatsheet.com/)
