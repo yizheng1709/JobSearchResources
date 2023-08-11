@@ -16,10 +16,14 @@ I "luckily" secured an offer right before I graduated from Flatiron School in 20
 
 ### Technical
 - [Personal Study Guide](https://github.com/yizheng1709/InterviewPrep)
+- [Refer Me's Interview Guide](https://resources.refer.me/)
 
 ## Company Research
 - [BuiltIn Companies](https://builtin.com/companies)
 - [Levels.fyi's Blog](https://www.levels.fyi/blog/)
+
+## Referral / Networking
+- [Refer Me](https://www.refer.me/)
 
 ## Salary (Negotiation)
 - [Levels.fyi](https://www.levels.fyi)
