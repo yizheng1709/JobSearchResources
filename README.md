@@ -14,6 +14,7 @@ I "luckily" secured an offer right before I graduated from Flatiron School in 20
 - [Google Sheet Job Tracker - credit goes to original creator](https://docs.google.com/spreadsheets/d/1hDxRLV9XT7quVhelbhqMvn8PcaQDF2fJzfljHEvqBQ4/edit?usp=sharing)
 
 ## Interviewing
+- [John Washam's comprehensive guide in becoming a software engineer]([https://developer.microsoft.com/en-us/offers/30-days-to-learn-it](https://github.com/jwasham/coding-interview-university)
 
 ### Behavioral
 - [LinkedIn Interview Prep](https://www.linkedin.com/interview-prep/assessments/urn:li:fsd_assessment:(1,a)/question/urn:li:fsd_assessmentQuestion:(10011,aq11)/)
@@ -31,6 +32,7 @@ I "luckily" secured an offer right before I graduated from Flatiron School in 20
 ## Company Research
 - [BuiltIn Companies](https://builtin.com/companies)
 - [Levels.fyi's Blog](https://www.levels.fyi/blog/)
+- [Crunchbase - learn about a startup's funding](https://www.crunchbase.com/)
 
 ## Referral / Networking
 - [Refer Me](https://www.refer.me/)
@@ -60,3 +62,4 @@ I "luckily" secured an offer right before I graduated from Flatiron School in 20
 - [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US)
 - [New York State Department of Labor partnered with Coursera to provide free training](https://dol.ny.gov/online-learning-coursera)
 - [Learn.uno - Learn anything in one month alongside your day job](https://learn.uno/learning/)
+- [Microsoft - 30 Day to Learn It](https://developer.microsoft.com/en-us/offers/30-days-to-learn-it)
