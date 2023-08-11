@@ -14,7 +14,7 @@ I "luckily" secured an offer right before I graduated from Flatiron School in 20
 - [Google Sheet Job Tracker - credit goes to original creator](https://docs.google.com/spreadsheets/d/1hDxRLV9XT7quVhelbhqMvn8PcaQDF2fJzfljHEvqBQ4/edit?usp=sharing)
 
 ## Interviewing
-- [John Washam's comprehensive guide in becoming a software engineer]([https://developer.microsoft.com/en-us/offers/30-days-to-learn-it](https://github.com/jwasham/coding-interview-university)
+- [John Washam's comprehensive guide in becoming a software engineer](https://github.com/jwasham/coding-interview-university)
 
 ### Behavioral
 - [LinkedIn Interview Prep](https://www.linkedin.com/interview-prep/assessments/urn:li:fsd_assessment:(1,a)/question/urn:li:fsd_assessmentQuestion:(10011,aq11)/)
