@@ -30,8 +30,13 @@ I "luckily" secured an offer right before I graduated from Flatiron School in 20
 - [BuiltIn Salaries](https://builtin.com/salaries)
 
 ## Learning
+
+### Coding
 - [freecodecamp](https://www.freecodecamp.org/)
 - [Grow With Google](https://grow.google/certificates/#?modal_active=none)
 - [Harvard CS50](https://cs50.harvard.edu/x/2023/)
 - [Codecademy](https://www.codecademy.com)
 - [MDN Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
+  
+### Skills / Tools
+- [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US)
