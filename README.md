@@ -21,6 +21,7 @@ I "luckily" secured an offer right before I graduated from Flatiron School in 20
 ### Technical
 - [Personal Study Guide](https://github.com/yizheng1709/InterviewPrep)
 - [Refer Me's Interview Guide](https://resources.refer.me/)
+- [Big O Cheat Sheet](https://www.bigocheatsheet.com/)
 
 ## Company Research
 - [BuiltIn Companies](https://builtin.com/companies)
