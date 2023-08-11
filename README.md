@@ -21,7 +21,8 @@ I "luckily" secured an offer right before I graduated from Flatiron School in 20
 ### Technical
 - [Personal Study Guide](https://github.com/yizheng1709/InterviewPrep)
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)
-   - [Grind 75](https://www.techinterviewhandbook.org/grind75)
+ - [Grind 75](https://www.techinterviewhandbook.org/grind75)
+- [Frontend Interview Handbook](https://www.frontendinterviewhandbook.com/)
 - [Refer Me's Interview Guide](https://resources.refer.me/)
 - [Big O Cheat Sheet](https://www.bigocheatsheet.com/)
 - [Hack Reactor's Tech Interview Cheat Sheet](https://github.com/hackreactor/Tech-Interview-Cheat-Sheet)
@@ -41,6 +42,9 @@ I "luckily" secured an offer right before I graduated from Flatiron School in 20
 
 ## Learning
 
+### Books
+- [Free Programming Books repo](https://github.com/EbookFoundation/free-programming-books)
+
 ### Coding
 - [freecodecamp](https://www.freecodecamp.org/)
 - [Grow With Google](https://grow.google/certificates/#?modal_active=none)
@@ -49,7 +53,10 @@ I "luckily" secured an offer right before I graduated from Flatiron School in 20
 - [MDN Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
 - [Women Who Code](https://members.womenwhocode.com/resources/)
 - [Khan Academy's computing courses](https://www.khanacademy.org/computing)
+- [CSS Tricks](https://css-tricks.com/)
+- [Code Gym - Learn Java in a Fun Way](https://codegym.cc/)
   
 ### Skills / Tools
 - [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US)
 - [New York State Department of Labor partnered with Coursera to provide free training](https://dol.ny.gov/online-learning-coursera)
+- [Learn.uno - Learn anything in one month alongside your day job](https://learn.uno/learning/)
