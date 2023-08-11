@@ -62,4 +62,4 @@ I "luckily" secured an offer right before I graduated from Flatiron School in 20
 - [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US)
 - [New York State Department of Labor partnered with Coursera to provide free training](https://dol.ny.gov/online-learning-coursera)
 - [Learn.uno - Learn anything in one month alongside your day job](https://learn.uno/learning/)
-- [Microsoft - 30 Day to Learn It](https://developer.microsoft.com/en-us/offers/30-days-to-learn-it)
+- [Microsoft - 30 Days to Learn It](https://developer.microsoft.com/en-us/offers/30-days-to-learn-it)
