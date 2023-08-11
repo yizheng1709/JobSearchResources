@@ -1,4 +1,5 @@
 # Job Search Resources
+I "luckily" secured an offer right before I graduated from Flatiron School in 2021. To me, "luck" is a combination of hard work and opportunity. You can read [how I landed my first tech offer on Medium](https://medium.datadriveninvestor.com/how-i-landed-my-offer-tips-for-bootcamp-students-675a6d8096e9).
 
 ## Resume
 - [Rezi - Build Your Resume with AI](https://www.rezi.ai/)
