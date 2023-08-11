@@ -28,4 +28,3 @@
 - [Harvard CS50](https://cs50.harvard.edu/x/2023/)
 - [Codecademy](https://www.codecademy.com)
 - [MDN Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
-- 
