@@ -23,6 +23,7 @@ I "luckily" secured an offer right before I graduated from Flatiron School in 20
 - [Refer Me's Interview Guide](https://resources.refer.me/)
 - [Big O Cheat Sheet](https://www.bigocheatsheet.com/)
 - [Hack Reactor's Tech Interview Cheat Sheet](https://github.com/hackreactor/Tech-Interview-Cheat-Sheet)
+- [Neetcode](https://neetcode.io/)
 
 ## Company Research
 - [BuiltIn Companies](https://builtin.com/companies)
