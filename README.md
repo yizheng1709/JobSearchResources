@@ -17,7 +17,7 @@ The rounds usually consist of:
   - Depending on the company, you might meet more of the team
 - System design with a senior engineer or hiring manager (usually for more senior positions)
 
-Software engineering interviews are tough and a stamina test. Luckily, the tech community are open to helping each other and there are endless resources on the Internet to help each other land our next role! I needed a lot of help when I first started (I still need a lot of help tbh), and I would love to pay the kindness forward by compiling this list of resources.
+Software engineering interviews are tough and a stamina test. But you know what? The tech community has each other's backs, and the web is overflowing with resources to help us nail that next gig! I'll admit, I was (and still am, honestly) in need of some serious guidance when I first dove in. So, I'm paying it forward by putting together this list of resources. 
 
 ## Resume
 - [Rezi - Build Your Resume with AI](https://www.rezi.ai/)
