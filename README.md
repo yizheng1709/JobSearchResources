@@ -54,8 +54,11 @@ Software engineering interviews are tough and a stamina test. But you know what?
 - [Levels.fyi's Blog](https://www.levels.fyi/blog/)
 - [Crunchbase - learn about a startup's funding](https://www.crunchbase.com/)
 
-## Referral / Networking
+## Referral / Networking / Community
 - [Refer Me](https://www.refer.me/)
+- [Taro](https://www.jointaro.com/)
+- [Tech Ladies - community to support women in all areas of tech](https://www.hiretechladies.com/community)
+- [Code Operation - community of military veterans, service members, and spouses committed to becoming software developers](https://operationcode.org/)
 
 ## Salary (Negotiation)
 - [Levels.fyi](https://www.levels.fyi)
