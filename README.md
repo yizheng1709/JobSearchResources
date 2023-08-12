@@ -4,7 +4,7 @@ Hi! I'm Eva (ee-vah) and I am a bootcamp grad.
 
 I "luckily" secured an offer right before I graduated from Flatiron School in 2021. To me, "luck" is a combination of hard work and opportunity. You can read [how I landed my first tech offer on Medium](https://medium.datadriveninvestor.com/how-i-landed-my-offer-tips-for-bootcamp-students-675a6d8096e9).
 
-I don't think most coding bootcamps do a good job of conveying the message that the tech industry is **VERY** competitive. More often than not, I see most bootcamp graduates have trouble securing a position after graduating because they don't know how to secure a tech job. From my experience, interviewing for a tech position is quite different from the other roles I've interviewed for (server, sales associate, bank teller, mortgage loan processor, legal analyst, editor, etc.). 
+I don't think most coding bootcamps do a good job of conveying the message that the tech industry is **VERY** competitive. I see many bootcamp graduates have trouble securing a position after graduating. From my experience, interviewing for a tech position is quite different from the other roles I've interviewed for (server, sales associate, bank teller, mortgage loan processor, legal analyst, editor, etc.). 
 
 Software engineering positions often have a few rounds of interviews and the rounds increase as you advance in your career. 
 
