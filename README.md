@@ -29,9 +29,14 @@ Software engineering interviews are tough and a stamina test. But you know what?
 - [Tech Ladies - Join the largest community of women in tech](https://www.hiretechladies.com/join)
 - [LinkedIn Jobs](https://www.linkedin.com/jobs/)
 - [Levels.fyi's Job Board](https://www.levels.fyi/jobs)
+- [Still Hiring Today](https://stillhiring.today/)
+- [The Mom Project](https://themomproject.com/join)
+- [Boston Big Tech Job Board](https://mgmtboston.com/boston-tech-big-board/)
 
 ### Job Tracking
 - [Google Sheet Job Tracker - credit goes to original creator](https://docs.google.com/spreadsheets/d/1hDxRLV9XT7quVhelbhqMvn8PcaQDF2fJzfljHEvqBQ4/edit?usp=sharing)
+- [Teal Job Tracker](https://www.tealhq.com/tools/job-tracker)
+- [Notion Job Tracker](https://www.notion.so/templates/job-hunt-tracker)
 
 ## Interviewing
 - [John Washam's comprehensive guide in becoming a software engineer](https://github.com/jwasham/coding-interview-university)
@@ -53,6 +58,7 @@ Software engineering interviews are tough and a stamina test. But you know what?
 - [BuiltIn Companies](https://builtin.com/companies)
 - [Levels.fyi's Blog](https://www.levels.fyi/blog/)
 - [Crunchbase - learn about a startup's funding](https://www.crunchbase.com/)
+- [Glassdoor - not my first choice because there are outdated data](https://www.glassdoor.com/)
 
 ## Referral / Networking / Community
 - [Refer Me](https://www.refer.me/)
@@ -64,6 +70,7 @@ Software engineering interviews are tough and a stamina test. But you know what?
 - [Levels.fyi](https://www.levels.fyi)
 - [BuiltIn Salaries](https://builtin.com/salaries)
 - [Ladder - job site for $100K+ jobs](https://www.theladders.com/)
+- [Comprehensive.io](https://www.comprehensive.io/)
 
 ## Learning
 
