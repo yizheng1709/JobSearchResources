@@ -1,7 +1,23 @@
 # Job Search Resources
+
 I "luckily" secured an offer right before I graduated from Flatiron School in 2021. To me, "luck" is a combination of hard work and opportunity. You can read [how I landed my first tech offer on Medium](https://medium.datadriveninvestor.com/how-i-landed-my-offer-tips-for-bootcamp-students-675a6d8096e9).
 
 I don't think most coding bootcamps do a good job of conveying the message that the tech industry is **VERY** competitive. More often than not, I see most bootcamp graduates have trouble securing a position after graduating because they don't know how to search for a tech job. From my experience, interviewing for a tech position is quite different from the other roles I've interviewed for (server, sales associate, bank teller, mortgage loan processor, legal analyst, editor, etc.). 
+
+Software engineering positions often have a few rounds of interviews and the rounds increase as you advance in your career. 
+
+The rounds usually consist of:
+- Phone screening with a recruiter
+  - Be prepared:
+    - To walk through your resume
+    - To answer why you are applying to the company
+- Coding assessment
+  - Could be a take-home assignment, online assessment, or pair programming with an engineer on the team
+- Meeting the hiring manager (a mix of technical and behavioral questions)
+  - Depending on the company, you might meet more of the team
+- System design with a senior engineer or hiring manager (usually for more senior positions)
+
+Software engineering interviews are tough and a stamina test. Luckily, the tech community are open to helping each other and there are endless resources on the Internet to help each other land our next role! I needed a lot of help when I first started (I still need a lot of help tbh), and I would love to pay the kindness forward by compiling this list of resources.
 
 ## Resume
 - [Rezi - Build Your Resume with AI](https://www.rezi.ai/)
