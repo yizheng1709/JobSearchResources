@@ -29,6 +29,7 @@ Software engineering interviews are tough and a stamina test. But you know what?
 - [Tech Ladies - Join the largest community of women in tech](https://www.hiretechladies.com/join)
 - [LinkedIn Jobs](https://www.linkedin.com/jobs/)
 - [Levels.fyi's Job Board](https://www.levels.fyi/jobs)
+- [Otta](https://otta.com/)
 - [Still Hiring Today](https://stillhiring.today/)
 - [The Mom Project](https://themomproject.com/join)
 - [Boston Big Tech Job Board](https://mgmtboston.com/boston-tech-big-board/)
@@ -59,13 +60,14 @@ Software engineering interviews are tough and a stamina test. But you know what?
 - [BuiltIn Companies](https://builtin.com/companies)
 - [Levels.fyi's Blog](https://www.levels.fyi/blog/)
 - [Crunchbase - learn about a startup's funding](https://www.crunchbase.com/)
-- [Glassdoor - not my first choice because there are outdated data](https://www.glassdoor.com/)
+- [Glassdoor - not my first choice because there is outdated data](https://www.glassdoor.com/)
 
 ## Referral / Networking / Community
 - [Refer Me](https://www.refer.me/)
 - [Taro](https://www.jointaro.com/)
 - [Tech Ladies - community to support women in all areas of tech](https://www.hiretechladies.com/community)
 - [Code Operation - community of military veterans, service members, and spouses committed to becoming software developers](https://operationcode.org/)
+- [Fairy God Boss](https://fairygodboss.com/)
 
 ## Salary (Negotiation)
 - [Levels.fyi](https://www.levels.fyi)
