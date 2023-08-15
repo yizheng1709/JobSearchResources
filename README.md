@@ -112,4 +112,4 @@ Software engineering interviews are tough and a stamina test. But you know what?
 - [AWS Skill Builder](https://skillbuilder.aws/)
 - [Microsoft Learning](https://learn.microsoft.com/en-us/training/browse/?products=azure%2Csql-server%2Cwindows-server)
 - [Oracle University](https://mylearn.oracle.com/ou/home)
-- 
+- [The Odin Project](https://www.theodinproject.com/)
