@@ -26,6 +26,7 @@ Software engineering interviews are tough and a stamina test. But you know what?
   
 ## Job Boards
 - [Wellfound, formerly AngelList Talent](https://wellfound.com/)
+- [Hiring Without Whiteboards repo](https://github.com/poteto/hiring-without-whiteboards)
 - [Tech Ladies - Join the largest community of women in tech](https://www.hiretechladies.com/join)
 - [LinkedIn Jobs](https://www.linkedin.com/jobs/)
 - [Levels.fyi's Job Board](https://www.levels.fyi/jobs)
@@ -34,6 +35,10 @@ Software engineering interviews are tough and a stamina test. But you know what?
 - [The Mom Project](https://themomproject.com/join)
 - [Boston Big Tech Job Board](https://mgmtboston.com/boston-tech-big-board/)
 - [BuiltIn Jobs](https://builtin.com/jobs)
+- [Web3.career - jobs in Web3](https://web3.career/)
+- [Simplify](https://simplify.jobs/)
+- [Wayup](https://www.wayup.com/)
+- 
 
 ### Job Tracking
 - [Google Sheet Job Tracker - credit goes to original creator](https://docs.google.com/spreadsheets/d/1hDxRLV9XT7quVhelbhqMvn8PcaQDF2fJzfljHEvqBQ4/edit?usp=sharing)
@@ -62,12 +67,14 @@ Software engineering interviews are tough and a stamina test. But you know what?
 - [Crunchbase - learn about a startup's funding](https://www.crunchbase.com/)
 - [Glassdoor - not my first choice because there is outdated data](https://www.glassdoor.com/)
 
-## Referral / Networking / Community
+## Referral / Networking / Community / Mentorship
 - [Refer Me](https://www.refer.me/)
 - [Taro](https://www.jointaro.com/)
 - [Tech Ladies - community to support women in all areas of tech](https://www.hiretechladies.com/community)
 - [Code Operation - community of military veterans, service members, and spouses committed to becoming software developers](https://operationcode.org/)
 - [Fairy God Boss](https://fairygodboss.com/)
+- [ADP List](https://adplist.org/)
+- [Women in Cybersecurity](https://www.wicys.org/initiatives/mentorship-1/)
 
 ## Salary (Negotiation)
 - [Levels.fyi](https://www.levels.fyi)
