@@ -76,7 +76,7 @@ Software engineering interviews are tough and a stamina test. But you know what?
 - [Refer Me](https://www.refer.me/)
 - [Taro](https://www.jointaro.com/)
 - [Tech Ladies - community to support women in all areas of tech](https://www.hiretechladies.com/community)
-- [Code Operation - community of military veterans, service members, and spouses committed to becoming software developers](https://operationcode.org/)
+- [Operation Code - community of military veterans, service members, and spouses committed to becoming software developers](https://operationcode.org/)
 - [Fairy God Boss](https://fairygodboss.com/)
 - [ADP List](https://adplist.org/)
 - [Women in Cybersecurity](https://www.wicys.org/initiatives/mentorship-1/)
