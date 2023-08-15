@@ -77,6 +77,12 @@ Software engineering interviews are tough and a stamina test. But you know what?
 - [Taro](https://www.jointaro.com/)
 - [Tech Ladies - community to support women in all areas of tech](https://www.hiretechladies.com/community)
 - [Operation Code - community of military veterans, service members, and spouses committed to becoming software developers](https://operationcode.org/)
+  - There are location-specific channels dedicated to meetups such as:
+    - #austin-tx 
+  - There are channels dedicated to job hunting such as:
+    - #remote-jobs
+    - #job-board
+    - #career-advice
 - [Fairy God Boss](https://fairygodboss.com/)
 - [ADP List](https://adplist.org/)
 - [Women in Cybersecurity](https://www.wicys.org/initiatives/mentorship-1/)
