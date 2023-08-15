@@ -39,6 +39,11 @@ Software engineering interviews are tough and a stamina test. But you know what?
 - [Simplify](https://simplify.jobs/)
 - [Wayup](https://www.wayup.com/)
 - [USA Jobs](https://www.usajobs.gov/Search/Results?show=mco&hp=public&p=1)
+- [Key Values](https://www.keyvalues.com/)
+- [Ladders](https://www.theladders.com/jobs/search-jobs?)
+- [Hacker News](https://news.ycombinator.com/jobs?)
+- [Crunchboard](https://www.crunchboard.com/jobs?)
+- [Authentic Jobs](https://authenticjobs.com/)
 
 ### Job Tracking
 - [Google Sheet Job Tracker - credit goes to original creator](https://docs.google.com/spreadsheets/d/1hDxRLV9XT7quVhelbhqMvn8PcaQDF2fJzfljHEvqBQ4/edit?usp=sharing)
@@ -104,3 +109,7 @@ Software engineering interviews are tough and a stamina test. But you know what?
 - [Learn.uno - Learn anything in one month alongside your day job](https://learn.uno/learning/)
 - [Microsoft - 30 Days to Learn It](https://developer.microsoft.com/en-us/offers/30-days-to-learn-it)
 - [Roadmap.sh](https://roadmap.sh/)
+- [AWS Skill Builder](https://skillbuilder.aws/)
+- [Microsoft Learning](https://learn.microsoft.com/en-us/training/browse/?products=azure%2Csql-server%2Cwindows-server)
+- [Oracle University](https://mylearn.oracle.com/ou/home)
+- 
