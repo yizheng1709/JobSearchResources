@@ -77,7 +77,9 @@ Software engineering interviews are tough and a stamina test. But you know what?
 
 ## Referral / Networking / Community / Mentorship
 - [Refer Me](https://www.refer.me/)
+  - Referrals help you stand out as a candidate 
 - [Taro](https://www.jointaro.com/)
+  - Alex and Rahul are building a supportive community for software engineers to grow in their careers
 - [Tech Ladies - community to support women in all areas of tech](https://www.hiretechladies.com/community)
 - [Operation Code - community of military veterans, service members, and spouses committed to becoming software developers](https://operationcode.org/)
   - There are location-specific channels dedicated to meetups such as:
@@ -100,6 +102,7 @@ Software engineering interviews are tough and a stamina test. But you know what?
 
 ### Books
 - [Free Programming Books repo](https://github.com/EbookFoundation/free-programming-books)
+- [The Bastards Book of Ruby](http://ruby.bastardsbook.com/toc/)
 
 ### Coding
 - [freecodecamp](https://www.freecodecamp.org/)
