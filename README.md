@@ -21,8 +21,10 @@ The rounds usually consist of:
 
 Software engineering interviews are tough and a stamina test. But you know what? The tech community has each other's backs, and the web is overflowing with resources to help us nail that next gig! I'll admit, I was (and still am, honestly) in need of some serious guidance when I first dove in. So, I'm paying it forward by putting together this list of resources. 
 
-## Resume
+## Resume / LinkedIn
 - [Rezi - Build Your Resume with AI](https://www.rezi.ai/)
+- [Canva](https://www.canva.com/)
+  - I believe that LinkedIn is a powerful platform that helps with networking and finding your next opportunity. To help your posts/profile stand out, I recommend using graphics. Canva makes it super easy to bootstrap your LinkedIn banner/posts. 
   
 ## Job Boards
 - [Wellfound, formerly AngelList Talent](https://wellfound.com/)
