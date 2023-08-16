@@ -67,6 +67,7 @@ Software engineering interviews are tough and a stamina test. But you know what?
 - [Big O Cheat Sheet](https://www.bigocheatsheet.com/)
 - [Hack Reactor's Tech Interview Cheat Sheet](https://github.com/hackreactor/Tech-Interview-Cheat-Sheet)
 - [Neetcode](https://neetcode.io/)
+- [System Design Primer Study Guide repo](https://github.com/donnemartin/system-design-primer#study-guide)
 
 ## Company Research
 - [BuiltIn Companies](https://builtin.com/companies)
@@ -95,7 +96,7 @@ Software engineering interviews are tough and a stamina test. But you know what?
 - [Ladder - job site for $100K+ jobs](https://www.theladders.com/)
 - [Comprehensive.io](https://www.comprehensive.io/)
 
-## Learning
+## Learning / Practice
 
 ### Books
 - [Free Programming Books repo](https://github.com/EbookFoundation/free-programming-books)
