@@ -59,6 +59,7 @@ Software engineering interviews are tough and a stamina test. But you know what?
 
 ### Behavioral
 - [LinkedIn Interview Prep](https://www.linkedin.com/interview-prep/assessments/urn:li:fsd_assessment:(1,a)/question/urn:li:fsd_assessmentQuestion:(10011,aq11)/)
+- [Exponent - possible behavioral questions](https://www.tryexponent.com/questions?page=1&type=behavioral)
 
 ### Technical
 - [Personal Study Guide](https://github.com/yizheng1709/InterviewPrep)
