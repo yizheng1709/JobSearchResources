@@ -128,3 +128,5 @@ Software engineering interviews are tough and a stamina test. But you know what?
 - [Microsoft Learning](https://learn.microsoft.com/en-us/training/browse/?products=azure%2Csql-server%2Cwindows-server)
 - [Oracle University](https://mylearn.oracle.com/ou/home)
 - [The Odin Project](https://www.theodinproject.com/)
+- [Scrum Alliance](https://resources.scrumalliance.org/)
+  - Most teams follow the Agile methodology, so it's helpful to know some of the keypoints of Agile 
