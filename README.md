@@ -71,6 +71,7 @@ Software engineering interviews are tough and a stamina test. But you know what?
 - [Hack Reactor's Tech Interview Cheat Sheet](https://github.com/hackreactor/Tech-Interview-Cheat-Sheet)
 - [Neetcode](https://neetcode.io/)
 - [System Design Primer Study Guide repo](https://github.com/donnemartin/system-design-primer#study-guide)
+- [Codementor Virtual Events](https://www.codementor.io/events/past)
 
 ## Company Research
 - [BuiltIn Companies](https://builtin.com/companies)
