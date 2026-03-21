@@ -48,6 +48,7 @@ Software engineering interviews are tough and a stamina test. But you know what?
 - [Hacker News](https://news.ycombinator.com/jobs?)
 - [Crunchboard](https://www.crunchboard.com/jobs?)
 - [Authentic Jobs](https://authenticjobs.com/)
+- [Corvi Careers](https://corvi.careers/)
 
 ### Job Tracking
 - [Google Sheet Job Tracker - credit goes to original creator](https://docs.google.com/spreadsheets/d/1hDxRLV9XT7quVhelbhqMvn8PcaQDF2fJzfljHEvqBQ4/edit?usp=sharing)
