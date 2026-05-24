@@ -41,6 +41,7 @@ Software engineering interviews are tough and a stamina test. But you know what?
 - [BuiltIn Jobs](https://builtin.com/jobs)
 - [Web3.career - jobs in Web3](https://web3.career/)
 - [Simplify](https://simplify.jobs/)
+- [Hanzilla Jobs](https://jobs.hanzilla.co/categories/software-engineering/) - daily-updated Canadian student/recent-grad software engineering roles, including internships, co-ops, new grad, junior, and entry-level postings
 - [Wayup](https://www.wayup.com/)
 - [USA Jobs](https://www.usajobs.gov/Search/Results?show=mco&hp=public&p=1)
 - [Key Values](https://www.keyvalues.com/)
