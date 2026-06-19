@@ -25,6 +25,7 @@ Software engineering interviews are tough and a stamina test. But you know what?
 
 ## Resume / LinkedIn
 - [Rezi - Build Your Resume with AI](https://www.rezi.ai/)
+- [AI Resume ATS Score Checker](https://ronnie2025.github.io/ai-agent-workbench-starter-pack/ai-resume-ats-score-checker.html) - compare your resume summary against a target job description to spot keyword gaps and rewrite priorities before applying.
 - [Canva](https://www.canva.com/)
   - I believe that LinkedIn is a powerful platform that helps with networking and finding your next opportunity. To help your posts/profile stand out, I recommend using graphics. Canva makes it super easy to bootstrap your LinkedIn banner/posts. 
   
