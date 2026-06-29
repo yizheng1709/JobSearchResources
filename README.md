@@ -29,6 +29,7 @@ Software engineering interviews are tough and a stamina test. But you know what?
   - I believe that LinkedIn is a powerful platform that helps with networking and finding your next opportunity. To help your posts/profile stand out, I recommend using graphics. Canva makes it super easy to bootstrap your LinkedIn banner/posts. 
   
 ## Job Boards
+- [Meridian - Remote tech jobs matched to your timezone for US, LATAM, and EU](https://meridianremote.com)
 - [Wellfound, formerly AngelList Talent](https://wellfound.com/)
 - [Hiring Without Whiteboards repo](https://github.com/poteto/hiring-without-whiteboards)
 - [Tech Ladies - Join the largest community of women in tech](https://www.hiretechladies.com/join)
